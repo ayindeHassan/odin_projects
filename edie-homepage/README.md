@@ -22,7 +22,7 @@ This is just viable minimun product, still working to add more features like:
 
 ## Demo
 
-You can find the demo of this website from [edie](https://edie.vercel.app)
+You can find the demo of this website from [ediepage](https://ediepage.vercel.app)
 
 ## Skills Achieved
 
